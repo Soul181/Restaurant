@@ -146,7 +146,7 @@ ul, li {
 }
 
 .menu_foto {
-	overflow: inherit;
+	overflow: hidden;
 }
 
 .footer {
