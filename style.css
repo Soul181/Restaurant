@@ -5,81 +5,67 @@ ul, li {
 }
 
 .main-header {
-	display: block;
 	margin-top: 10px;	
 }
 
 .menu {
-	display: block;
 	margin-top: 5px;
 }
 
 .menu__item {
-	display: block;
 	font-weight: 700;
 	font-size: 14px;
 }
 
 .menu__item a {
-	display: block;
 	color: #8c1c1c;
 	text-transform: uppercase;
 }
 
 .offer {
-	display: block;
 	background: url(img/001.jpg) no-repeat center top;
 	height: 500px;
 	margin-top: 10px;
 }
 
 .call {
-	display: block;
 	background: #d3d3d3;
 	height: 70px;
 	border-bottom: 1px solid #dde3e7;
 }
 
 .about {
-	display: block;
 	height: 500px;
 }
 
 .special {
-	display: block;
 	background: #d3d3d3;
 	height: 650px;
 }
 
 .food_name {
-	display: block;
 	margin-top: 10px;
 }
 
 .special_title {
-	display: block;
 	text-align: center;
 	margin-top: 10px;
 }
 
 .food_1 {
-	display: block;
 	margin-top: 15px;
 }
 
 .food_2 {
-	display: block;
 	margin-top: 15px;
 }
 
 .food_description {
-	display: block;
 	width: 450px;
 	text-align: left;
 }
 
 .food_price {
-	display: block;
 	width: 450px;
 	display: block;
 	font-size: 26px;
@@ -144,36 +130,26 @@ ul, li {
 }
 
 .history {
-	display: block;
-	overflow: hidden;
+	width: 500px;
 	margin-top: 70px;
 	margin-left: -30px;
 }
 
 .history_img_1 {
-	display: block;
-	overflow: hidden;
+	margin-left: 75px;
 	margin-top: 105px;
 }
 
 .history_img_2 {
-	display: block;
-	overflow: hidden;
+	margin-left: 75px;
 	margin-top: 70px;
 }
 
-.menu_foto {
-	display: block;
-	overflow: hidden;
-}
-
 .footer {
-	display: block;
 	height: 130px;
 }
 
 .footer_info {
-	display: block;
 	padding-top: 30px;
 }
 
