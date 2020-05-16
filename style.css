@@ -5,6 +5,7 @@ ul, li {
 }
 
 .body { 
+	display: block;
 	width:auto; 
 	max-width:100%; 
 	height:auto; 
@@ -31,6 +32,7 @@ ul, li {
 .offer {
 	background: url(img/001.jpg) no-repeat center top;
 	height: 500px;
+	width: auto;
 	margin-top: 10px;
 }
 
@@ -83,6 +85,7 @@ ul, li {
 }
 
 .footer {
+	width: auto;
 	background: url(img/005.jpg) no-repeat center top;
 	height: 300px;
 }
