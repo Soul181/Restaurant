@@ -6,9 +6,7 @@ ul, li {
 
 .body { 
 	display: block;
-	width:auto; 
-	max-width:100%; 
-	height:auto; 
+	min-width: 1170px;	
 }
 
 .main-header {
@@ -31,6 +29,7 @@ ul, li {
 
 .offer {
 	background: url(img/001.jpg) no-repeat center top;
+	background-size: auto;
 	height: 500px;
 	width: auto;
 	margin-top: 10px;
@@ -61,10 +60,12 @@ ul, li {
 }
 
 .food_1 {
+	width: auto;
 	margin-top: 15px;
 }
 
 .food_2 {
+	width: auto;
 	margin-top: 15px;
 }
 
@@ -139,17 +140,19 @@ ul, li {
 }
 
 .history {
-	width: 500px;
+	width: 90%;
 	margin-top: 70px;
 	margin-left: -30px;
 }
 
 .history_img_1 {
+	width: auto;
 	margin-left: 75px;
 	margin-top: 105px;
 }
 
 .history_img_2 {
+	width: auto;
 	margin-left: 75px;
 	margin-top: 70px;
 }
