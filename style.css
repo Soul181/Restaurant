@@ -5,8 +5,8 @@ ul, li {
 }
 
 .body { 
-	display: block;
-	min-width: 1170px;	
+	display: flex;
+	min-width: 1366px;	
 }
 
 .main-header {
