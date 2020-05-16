@@ -1,0 +1,160 @@
+ul, li {
+	display: block;
+	padding: 0;
+	margin-top: 12px;
+}
+
+.main-header {
+	margin-top: 10px;	
+}
+
+.menu {
+	margin-top: 5px;
+}
+
+.menu__item {
+	font-weight: 700;
+	font-size: 14px;
+}
+
+.menu__item a {
+	color: #8c1c1c;
+	text-transform: uppercase;
+}
+
+.offer {
+	background: url(img/001.jpg) no-repeat center top;
+	height: 500px;
+	margin-top: 10px;
+}
+
+.call {
+	background: #d3d3d3;
+	height: 70px;
+	border-bottom: 1px solid #dde3e7;
+}
+
+.about {
+	height: 500px;
+}
+
+.special {
+	background: #d3d3d3;
+	height: 650px;
+}
+
+.food_name {
+	margin-top: 10px;
+}
+
+.special_title {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.food_1 {
+	margin-top: 15px;
+}
+
+.food_2 {
+	margin-top: 15px;
+}
+
+.food_description {
+	width: 450px;
+	text-align: left;
+}
+
+.food_price {
+	width: 450px;
+	display: block;
+	font-size: 26px;
+	text-align: right;
+}
+
+.dollar {
+	color: #786518; 
+}
+
+.footer {
+	background: url(img/005.jpg) no-repeat center top;
+	height: 300px;
+}
+
+.title {
+	padding: 100px 320px;
+}
+
+.title__heading {
+	font-size: 54px;
+	color: #fff;
+}
+
+.title__desc {
+	font-weight: 700;
+	font-size: 40px;
+	color: #fff;
+	margin-top: -20px;
+}
+
+.title__desc span {
+	color: #fff;
+}
+.yellow {
+	color: #fea100;
+}
+
+.phone {
+	margin-top: 13px;
+	width: 460px;
+}
+
+.phone_text {
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 700;
+	weight: 175px;
+	padding-left: 56px;
+}
+
+.phone_text span {
+	font-size: 16px;
+	margin-top: -4px;
+	display: block;
+}
+
+.phone_digits {
+	font-size: 30px;
+	margin-left: 42px;
+	margin-top: -3px;
+}
+
+.history {
+	width: 500px;
+	margin-top: 70px;
+	margin-left: -30px;
+}
+
+.history_img_1 {
+	margin-left: 75px;
+	margin-top: 105px;
+}
+
+.history_img_2 {
+	margin-left: 75px;
+	margin-top: 70px;
+}
+
+.footer {
+	height: 130px;
+}
+
+.footer_info {
+	padding-top: 30px;
+}
+
+.footer_text {
+	display: block;
+	margin-top: 7px;
+	color: #e3dcdc;
+}
